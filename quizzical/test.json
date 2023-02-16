@@ -1,0 +1,97 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is the Pink Floyd song &quot;Shine On You Crazy Diamond&quot; written about?",
+      "correct_answer": "Syd Barrett",
+      "incorrect_answers": ["John Lennon", "David Gilmour", "Floyd"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these countries remained neutral during World War II?",
+      "correct_answer": "Switzerland",
+      "incorrect_answers": ["United Kingdom", "France", "Italy"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+      "correct_answer": "August 21",
+      "incorrect_answers": ["August 23", "August 19", "August 17"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which CS:GO eSports team won the major event ESL One Cologne 2016?",
+      "correct_answer": "SK Gaming",
+      "incorrect_answers": ["Team Liquid", "Fnatic", "Virtus.pro"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What does the term GPU stand for?",
+      "correct_answer": "Graphics Processing Unit",
+      "incorrect_answers": [
+        "Gaming Processor Unit",
+        "Graphite Producing Unit",
+        "Graphical Proprietary Unit"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+      "correct_answer": "Lucio",
+      "incorrect_answers": ["Reinhardt", "Sombra", "Mercy"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these characters live in a pineapple under the sea in the cartoon &quot;SpongeBob SquarePants&quot;.",
+      "correct_answer": "SpongeBob SquarePants ",
+      "incorrect_answers": ["Patrick Star", "Squidward Tentacles", "Mr. Krabs"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many independent countries are there within the continent of South America?",
+      "correct_answer": "12",
+      "incorrect_answers": ["8", "9", "10"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Overwatch, what is L&uacute;cio&#039;s full name?",
+      "correct_answer": "L&uacute;cio Correia Dos Santos",
+      "incorrect_answers": [
+        "L&uacute;cio Luiz L&oacute;s Guilherme",
+        "L&uacute;cio Jo&atilde;o Lucas",
+        "L&uacute;cio Chupar Prima"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From where does the Nintendo video game character Mario derive his name?",
+      "correct_answer": "The landlord of the American headquarters",
+      "incorrect_answers": [
+        "Shigeru Miyamoto&#039;s father in law",
+        "Satoru Iwata&#039;s plumber",
+        "The date (Mar 10) that Donkey Kong was released."
+      ]
+    }
+  ]
+}
